@@ -12,6 +12,8 @@ namespace Project
         {
             //comment
             //Hello world goes here
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
 
             //if statement here
             if (true)
