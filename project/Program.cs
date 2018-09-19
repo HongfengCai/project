@@ -10,12 +10,20 @@ namespace Project
     {
         static void Main(string[] args)
         {
+            //comment
+            //Hello world goes here
 
-            //Hello World goes here! 
+            //if statement here
+            if (true)
+            {
 
-            //If statement here
+            }
 
-            //Put statement 
+            //Put a for loop here
+            for (int i = 0; i < .lentgth; i++)
+            {
+
+            }
         }
     }
 }
